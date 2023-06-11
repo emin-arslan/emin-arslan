@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Software Engineer with a passion for Science<br>Shoot me an Email or add me on Linkedin
-https://github.com/emin-arslan
+If you want to check my cv : [![LinkedIn](https://img.shields.io/badge/-Curriculum%20Vitae-gray)](https://1drv.ms/w/s!Aq1CBrSqbYeUhmtDjo3trXVKeoRO?e=i1Ip6L) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arslanemin) 
